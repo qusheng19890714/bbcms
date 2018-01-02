@@ -1,0 +1,21 @@
+{
+    "name": "Bbs",
+    "alias": "bbs",
+    "title": "bbs::bbs.title",
+    "description": "bbs::bbs.description",
+    "keywords": [],
+    "version": "1.0.0",
+    "active": 1,
+    "installed": 1,
+    "order": 10,
+    "author": "zotop",
+    "email": "it@zotop.com",
+    "homepage": "http:\/\/www.zotop.com",
+    "providers": [
+        "Modules\\Bbs\\Providers\\RouteServiceProvider"
+    ],
+    "aliases": [],
+    "files": [
+        "start.php"
+    ]
+}
